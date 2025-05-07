@@ -15,7 +15,7 @@ I created this tool to support my own translation workflow. Since I frequently w
 - Drag to scroll both vertically and horizontally
 - Toggle options for partial match and case sensitivity
 - Zoom in/out for font scaling
-- Lightweight — no dependencies beyond `openpyxl`
+- Lightweight - no dependencies beyond `openpyxl`
 - Packaged as a standalone Windows `.exe` (no Python install needed)
 
 ---
@@ -23,8 +23,8 @@ I created this tool to support my own translation workflow. Since I frequently w
 
 ### Option 1: Use the EXE
 
-1. Download `excelsearcher.exe` from the Releases section
-2. Double-click and run — no install needed
+1. Download `excelsearcher.exe` from the [Releases section](https://github.com/erjean/ExcelSearcher/releases) or [download directly](https://github.com/erjean/ExcelSearcher/releases/download/v1.0.0/Excel.Searcher.exe)
+2. Double-click and run - no install needed
 
 ### Option 2: Run the Python script
 
