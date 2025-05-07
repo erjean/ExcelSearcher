@@ -1,4 +1,4 @@
-# Excel Translator Search Tool
+# Excel Multifile Search Tool
 
 A lightweight and fast desktop app that quickly searches through multiple Excel files and locate a specified string.
 
