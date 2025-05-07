@@ -30,7 +30,7 @@ I created this tool to support my own translation workflow. Since I frequently w
 
 ```bash
 pip install -r requirements.txt
-python excelsearcher.py
+python ExcelSearcher.py
 ```
 
 ---
