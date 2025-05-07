@@ -32,10 +32,3 @@ I created this tool to support my own translation workflow. Since I frequently w
 pip install -r requirements.txt
 python ExcelSearcher.py
 ```
-
----
-
-## Requirements
-
-- Python 3.6+
-- `openpyxl`
